@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あいあい",
+  "base_artist": "倉橋ヨエコ",
+  "createdAt": "2026-02-26T15:45:53.154398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あいあい",
+      "artist": "黒子首",
+      "has_synced": false,
+      "path": "select/01_あいあい_黒子首.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あいあい",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": true,
+      "path": "select/02_あいあい_Yoeko_Kurahashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいあい",
+      "artist": "倉橋 ヨエコ",
+      "has_synced": false,
+      "path": "select/pl_01_あいあい_倉橋_ヨエコ.txt"
+    }
+  ]
+}
